@@ -1,0 +1,1 @@
+{"name":"Local: main","url":"c:\\Users\\KIIT\\Desktop\\FastAPI projects\\sql_app\\main.py","tests":[{"id":1686474933636,"input":"","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\KIIT\\Desktop\\FastAPI projects\\sql_app\\main.py","group":"local","local":true}
